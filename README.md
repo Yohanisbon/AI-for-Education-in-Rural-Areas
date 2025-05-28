@@ -1,8 +1,7 @@
 
  🧑‍🎓 About Me
 
-My name is Yohanisy Boniface. I am a passionate student from Tanzania aiming to study Ai. I believe technology should be fair and inclusive — and I’m working to make that true. AI-for-Education-in-Rural-Areas                                                                                                                                                                                               AI for Education in Rural Areas 🎓🌍
-
+My name is Yohanisy Boniface. I am a passionate student from Tanzania aiming to study Ai. I believe technology should be fair and inclusive — and I’m working to make that true. AI-for-Education-in-Rural-Areas                                                                                                                                                                                               
 This project explores how Artificial Intelligence can be used to improve access to quality education for students in underserved rural regions — inspired by my home village, Pawaga, in Tanzania.
 
  🔍 Project Overview
