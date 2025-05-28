@@ -36,4 +36,14 @@ As someone who grew up in Pawaga and taught students in rural schools, I witness
 My name is Yohanisy Boniface. I am a passionate student from Tanzania aiming to study Ai. I believe technology should be fair and inclusive — and I’m working to make that true.
 
 
- 
+⚙️ How It Works
+
+This project explores how Artificial Intelligence can improve education in rural areas through:
+
+1. AI Tutors: Chatbots or virtual tutors that answer students’ questions in local languages, even offline.
+2. Personalized Learning: AI can recommend topics for each student based on their progress.
+3. Data Analysis: Education data from rural schools can be analyzed to find which areas need urgent help.
+4.Offline Apps: With edge AI, this system could work in low-internet zones using solar-powered devices.
+
+💡 The goal is to make AI a teacher's assistant, not a replacement.
+
